@@ -1,0 +1,6 @@
+{
+  "name": "Shuddho Modhu Bangladesh",
+  "description": "Premium pure honey brand in Bangladesh showcasing honey jar collections from Sundarbans, mustard fields, litchi orchards, and black cumin, complete with dynamic shopping cart, customer reviews, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
